@@ -64,13 +64,13 @@
 
 ## Repository Structure
 
-
-
+```text
+.
 ├── README.md
 ├── literature-review/
 │   ├── paper-review.md
 │   └── terminology-notes.md
-│
 └── experiment/
-└── heart-rate-estimation-benchmark.ipynb
+    └── heart-rate-estimation-benchmark.ipynb
+```
 
