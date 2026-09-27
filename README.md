@@ -74,3 +74,8 @@
     └── heart-rate-estimation-benchmark.ipynb
 ```
 
+## References
+Kwon, I. H., Kim, Y., Sung, S.-E., Park, S., Park, G., Ko, S., Yim, Y.-H., Tegegn, G. B., Lee, S.-W., Heo, M. B., Lee, T. G., & Kim, Y. J. (2026). 
+High-throughput heart rate monitoring in Daphnia magna for sublethal ecotoxicological assessment. 
+Journal of Hazardous Materials, 505, 141474. 
+https://doi.org/10.1016/j.jhazmat.2026.141474
